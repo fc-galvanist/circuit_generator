@@ -1,0 +1,13 @@
+# KiCad temporary files
+*.kicad_prl
+*.kicad_pcb-bak
+*.bak
+
+# SPICE/Simulation outputs
+*.raw
+*.out
+*.log
+
+# Python artifacts
+__pycache__/
+*.py[cod]
